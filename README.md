@@ -1,8 +1,8 @@
 # hello-world
 This is the real starting point of my Github.
 
-# About my self
-I am a college student studying at **Mahidol University**.
+# About myself
+I am an undergraduate student studying at **Mahidol University**.
 I major in **Computer Engineering**.
 
 My interests right now are
